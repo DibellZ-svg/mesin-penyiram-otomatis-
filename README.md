@@ -107,14 +107,6 @@ bodacious_jaagub_wolt1.ino
 
 ---
 
-##  Pengembangan Selanjutnya
-
-* Tambahkan sensor kelembaban tanah (soil moisture)
-* Integrasi IoT (MQTT / Blynk)
-* Otomatisasi berbasis waktu atau kondisi tanah
-
----
-
 ##  Dibuat Dengan
 
 * Tinkercad
