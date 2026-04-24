@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"SERVO1",1,"Positional Micro Servo"
+"M1",1," DC Motor"
+"T1",1," Small Signal nMOS Transistor"
+"R2",1,"220 Ω Resistor"
+"D2",1," Diode"
+"BAT1",1," 9V Battery"
+"Rpot1",1,"250 kΩ Potentiometer"
