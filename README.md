@@ -89,7 +89,7 @@ bodacious_jaagub_wolt1.ino
 
 ---
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 
 1. Upload file `.ino` ke Arduino menggunakan Arduino IDE
 2. Pastikan library berikut sudah terinstall:
@@ -101,13 +101,13 @@ bodacious_jaagub_wolt1.ino
 
 ---
 
-## 📷 Preview Rangkaian
+##  Preview Rangkaian
 
 ![Circuit](Bodacious Jaagub-Wolt.png)
 
 ---
 
-## 🚀 Pengembangan Selanjutnya
+##  Pengembangan Selanjutnya
 
 * Tambahkan sensor kelembaban tanah (soil moisture)
 * Integrasi IoT (MQTT / Blynk)
@@ -115,15 +115,15 @@ bodacious_jaagub_wolt1.ino
 
 ---
 
-## 📅 Dibuat Dengan
+##  Dibuat Dengan
 
 * Tinkercad
 * Arduino IDE
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Nama: (Isi nama kamu)
+Nama: (Dibell)
 
 ---
